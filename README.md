@@ -1,0 +1,1 @@
+# This web site uses [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
