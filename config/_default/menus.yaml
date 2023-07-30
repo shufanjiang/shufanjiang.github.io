@@ -22,6 +22,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 42
+  - name: Services
+    url: '#services'
+    weight: 43
   # - name: Publications
   #   url: '#featured'
   #   weight: 50

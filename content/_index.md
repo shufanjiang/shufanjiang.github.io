@@ -119,7 +119,11 @@ sections:
       #   folders:
       #     - event
       text: |-
-        Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">miroandbig2023</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a>       
+        Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">miroandbig2023</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
+        
+        Invited talks about AI and Smart Agriculture, as part of the “Artificial Intelligence and Machine Learning” master course, Galatasaray University, 2020, 2021 and 2022
+
+
     design:
       columns: '2'
       view: compact    
@@ -132,6 +136,10 @@ sections:
           <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with Corinne Robert, Faustine Honoré, Marc Fleurbaey, CERES, 2023 Spring
+
+          Introduction to Ontologies and Semantic Web, Lecture, Reims Champagne-Ardenne University, Dec 2020
+
+          Bases de données - INFO0703, TP, Reims Champagne-Ardenne University,  Dec 2019
     design:
       columns: "2"
   # - block: collection
@@ -148,15 +156,28 @@ sections:
   #   design:
   #     columns: '2'
   #     view: citation
-
+  - bloc: markdown
+    id: services
+    content:
+      title: Services
+      subtitle: ""
+      text: |-
+          Reviewer for international journals / conferences
+          <ul>
+            <li>Wiley, Concurrency and Computation: Practice and Experience (CCPE), November 2020</li>
+            <li>Technology and Environment Workshop'21 at the Extraction et Gestion des Connaissances (EGC 2021) conference, Montpellier, France, January 2021</li>
+            <li>The 4th International Conference on Physics, Mathematics and Statistics (ICPMS2021), Kunming, Chine, May 2021</li>
+          </ul>
+    design:
+      columns: "2"
   - bloc: markdown
     id: cv
     content:
       title: CV
       subtitle: ""
       text: |-
-        Please download my English CV <a href="https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf" target="_blank">here</a>.
-        And my French CV <a href="https://docs.google.com/document/d/1Jc_p-yzdOh-7amm9SuD6CAdypNex0sVdirdk6An524M/export?format=pdf" target="_blank">here</a>
+        Please download my detailed CV <a href="https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf" target="_blank">here</a>.
+        And its French version <a href="https://docs.google.com/document/d/1Jc_p-yzdOh-7amm9SuD6CAdypNex0sVdirdk6An524M/export?format=pdf" target="_blank">here</a>
     design:
       columns: "2"
       view: compact
