@@ -232,7 +232,7 @@ sections:
       subtitle: ""
       text: |-
         <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%2333B679&ctz=Europe%2FBrussels&hl=en_GB&showPrint=0&showCalendars=0&showNav=1&mode=MONTH&src=MmFkMWIyMDZiNDI3MTYwNWQyNzY3OTg3NjY1OTgyYjYyZWEwOTgyNDQxN2IxNzFlNjFiOWU5NzFhN2E4NWE1M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-        You might need to deactivate your Ad blockers to visulaize the iframe content :-)
+        You might need to deactivate your ad blockers to visulaize the iframe content :-)
     design:
       columns: "2"
 
