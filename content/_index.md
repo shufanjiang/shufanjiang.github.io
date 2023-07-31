@@ -123,7 +123,7 @@ sections:
 
         Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">miroandbig2023</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
 
-        PhD defense: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture, ISEP Paris, 12 Dec, 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1--9yqcSC6JvsJg_eArL37Wo6L7VDJA9KbRt8Y7q0edc/export?format=pdf" target="_blank" rel="noopener">Slides</a>
+        PhD defense: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture, ISEP Paris, 14 Dec, 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1--9yqcSC6JvsJg_eArL37Wo6L7VDJA9KbRt8Y7q0edc/export?format=pdf" target="_blank" rel="noopener">Slides</a>
 
 
     design:
