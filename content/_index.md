@@ -193,7 +193,7 @@ sections:
       subtitle:
       text:
       # Contact (add or remove contact options as necessary)
-      email: jiang[point]chou[dot]fan[at]gmail.com
+      email: jiang.chou.fan@gmail.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
