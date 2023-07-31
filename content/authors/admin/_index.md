@@ -89,7 +89,7 @@ highlight_name: true
 
 I am a postdoctoral researcher (more precisely, Temporary Lecturer and Research Staff, ATER) at Ecole Normale Supérieure since December 2022. I work on the <a href="https://github.com/PierreSenellart/theoremkb"  target="_blank">TheoremKB research project</a> in <a href="https://team.inria.fr/valda/" target="_blank">VALDA Team</a>, supervised by <a href="https://pierre.senellart.com" target="_blank">Pierre Senellart</a>. I have also participated in the teaching of the <a href="https://ceres.ens.psl.eu" target="_blank">Centre de formation sur l’environnement et la société (CERES)</a>.
 
-I obtained a Ph.D. in Computer Science from the University of Reims Champagne-Ardenne and ISEP Paris in December 2022. I was co-supervised by <a href="https://rafaelangarita.github.io" target="_blank"> Rafael Angarita</a>, <a href="https://crestic.univ-reims.fr/fr/stephane.cormier" target="_blank">Stéphane Cormier</a>, <a href="https://www.linkedin.com/in/rchiky/" target="_blank">Raja Chiky</a> and <a href="francisrousseaux.fr/" target="_blank">Francis Rousseaux</a>.
+I obtained a Ph.D. in Computer Science from the University of Reims Champagne-Ardenne and ISEP Paris in December 2022. I was co-supervised by <a href="https://rafaelangarita.github.io" target="_blank"> Rafael Angarita</a>, <a href="https://crestic.univ-reims.fr/fr/stephane.cormier" target="_blank">Stéphane Cormier</a>, <a href="https://www.linkedin.com/in/rchiky/" target="_blank">Raja Chiky</a> and <a href="http://www.francisrousseaux.fr/" target="_blank">Francis Rousseaux</a>.
 
 My work explores knowledge reconstruction from textual, heterogeneous and domain-specific data.
 {style="text-align: justify;"}

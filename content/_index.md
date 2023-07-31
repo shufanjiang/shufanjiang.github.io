@@ -119,9 +119,11 @@ sections:
       #   folders:
       #     - event
       text: |-
+        Invited talk at the LIP6 DB seminar: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture (20minutes), Sorbonne Université, 16 May, 2023 
+
         Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">miroandbig2023</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
-        
-        Invited talks about AI and Smart Agriculture, as part of the “Artificial Intelligence and Machine Learning” master course, Galatasaray University, 2020, 2021 and 2022
+
+        PhD defense: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture, ISEP Paris, 12 Dec, 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1--9yqcSC6JvsJg_eArL37Wo6L7VDJA9KbRt8Y7q0edc/export?format=pdf" target="_blank" rel="noopener">Slides</a>
 
 
     design:
@@ -136,6 +138,9 @@ sections:
           <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with <a href="https://ceres.ens.psl.eu/?-robert-corinne-&lang=fr" target="_blank">Corinne Robert</a>, Faustine Honoré and <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank">Marc Fleurbaey</a>, CERES, 2023 Spring
+          <ul><li>Talk: Building Twitter Macroscopes for Farmer-centric Studies <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1G5H02zmIdfO-SAuLmtYUzEJVHjhB1Ay7aFEBVserTtE/export?format=pdf" target="_blank" rel="noopener">Slides</a> </li></ul>
+
+          Invited talks about AI and Smart Agriculture, as part of the “Artificial Intelligence and Machine Learning” master course, Galatasaray University, 2020 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1BlH1fHkqGMPYOzZa6q0d0qtJ69s96mnw2Er7PeSBTMI/export?format=pdf" target="_blank" rel="noopener">Slides</a>, 2021 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/17Ri6aMm1eiaWrjaGZOItfkjpJ4q2R0lCsvPWqt60hBQ/export?format=pdf" target="_blank" rel="noopener">Slides</a> and 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1wJ_4EuqoLTNvs03WqTK5yH0bK6Q12Rhpu6eERC7a8X8/export?format=pdf" target="_blank" rel="noopener">Slides</a>
 
           Introduction to Ontologies and Semantic Web, Lecture, Reims Champagne-Ardenne University, Dec 2020
 
@@ -232,7 +237,7 @@ sections:
       subtitle: ""
       text: |-
         <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%2333B679&ctz=Europe%2FBrussels&hl=en_GB&showPrint=0&showCalendars=0&showNav=1&mode=MONTH&src=MmFkMWIyMDZiNDI3MTYwNWQyNzY3OTg3NjY1OTgyYjYyZWEwOTgyNDQxN2IxNzFlNjFiOWU5NzFhN2E4NWE1M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-        You might need to deactivate your ad blockers to visulaize the iframe content :-)
+        <p><small>You might need to deactivate your ad blockers to visulaize the iframe content :-)</small></p>
     design:
       columns: "2"
 
