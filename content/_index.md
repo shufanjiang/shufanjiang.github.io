@@ -135,7 +135,7 @@ sections:
       title: Teaching
       subtitle: ""
       text: |-
-          <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, CERES, 2023 Spring
+          Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with <a href="https://ceres.ens.psl.eu/?-robert-corinne-&lang=fr" target="_blank">Corinne Robert</a>, Faustine Honoré and <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank">Marc Fleurbaey</a>, CERES, 2023 Spring
           <ul><li>Talk: Building Twitter Macroscopes for Farmer-centric Studies <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1G5H02zmIdfO-SAuLmtYUzEJVHjhB1Ay7aFEBVserTtE/export?format=pdf" target="_blank" rel="noopener">Slides</a> </li></ul>
