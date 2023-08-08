@@ -121,7 +121,7 @@ sections:
       text: |-
         Invited talk at the LIP6 DB seminar: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture (20minutes), Sorbonne Université, 16 May, 2023 
 
-        Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">miroandbig2023</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
+        Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">École Thématique Micro and Big 2013</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
 
         PhD defense: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture, ISEP Paris, 14 Dec, 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1--9yqcSC6JvsJg_eArL37Wo6L7VDJA9KbRt8Y7q0edc/export?format=pdf" target="_blank" rel="noopener">Slides</a>
 
@@ -135,16 +135,16 @@ sections:
       title: Teaching
       subtitle: ""
       text: |-
-          Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, CERES, 2023 Spring
+          Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, lectures and lab work, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with <a href="https://ceres.ens.psl.eu/?-robert-corinne-&lang=fr" target="_blank">Corinne Robert</a>, Faustine Honoré and <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank">Marc Fleurbaey</a>, CERES, 2023 Spring
-          <ul><li>Talk: Building Twitter Macroscopes for Farmer-centric Studies <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1G5H02zmIdfO-SAuLmtYUzEJVHjhB1Ay7aFEBVserTtE/export?format=pdf" target="_blank" rel="noopener">Slides</a> </li></ul>
+          <ul><li>Lecture: Building Twitter Macroscopes for Farmer-centric Studies <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1G5H02zmIdfO-SAuLmtYUzEJVHjhB1Ay7aFEBVserTtE/export?format=pdf" target="_blank" rel="noopener">Slides</a> </li></ul>
 
           Invited talks about AI and Smart Agriculture, as part of the “Artificial Intelligence and Machine Learning” master course, Galatasaray University, 2020 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1BlH1fHkqGMPYOzZa6q0d0qtJ69s96mnw2Er7PeSBTMI/export?format=pdf" target="_blank" rel="noopener">Slides</a>, 2021 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/17Ri6aMm1eiaWrjaGZOItfkjpJ4q2R0lCsvPWqt60hBQ/export?format=pdf" target="_blank" rel="noopener">Slides</a> and 2022 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://docs.google.com/presentation/d/1wJ_4EuqoLTNvs03WqTK5yH0bK6Q12Rhpu6eERC7a8X8/export?format=pdf" target="_blank" rel="noopener">Slides</a>
 
-          Introduction to Ontologies and Semantic Web, Lecture, Reims Champagne-Ardenne University, Dec 2020
+          Introduction to Ontologies and Semantic Web, lecture, Reims Champagne-Ardenne University, Dec 2020
 
-          Bases de données - INFO0703, TP, Reims Champagne-Ardenne University,  Dec 2019
+          Bases de données - INFO0703, lab work, Reims Champagne-Ardenne University,  Dec 2019
     design:
       columns: "2"
   # - block: collection
@@ -169,9 +169,9 @@ sections:
       text: |-
           Reviewer for international journals / conferences
           <ul>
-            <li>Wiley, Concurrency and Computation: Practice and Experience (CCPE), November 2020</li>
-            <li>Technology and Environment Workshop'21 at the Extraction et Gestion des Connaissances (EGC 2021) conference, Montpellier, France, January 2021</li>
             <li>The 4th International Conference on Physics, Mathematics and Statistics (ICPMS2021), Kunming, Chine, May 2021</li>
+            <li><a href="https://isepengineering.github.io/TechnologyAndEnvironment21/" target="_blank"> Technology and Environment Workshop'21 </a> at <a href="https://egc2021.sciencesconf.org/" target="_blank">Extraction et Gestion des Connaissances (EGC 2021)</a> conference, Montpellier, France, January 2021</li>
+            <li>Wiley, Concurrency and Computation: Practice and Experience (CCPE), November 2020</li>            
           </ul>
     design:
       columns: "2"
