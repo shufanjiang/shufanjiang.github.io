@@ -135,6 +135,8 @@ sections:
       title: Teaching
       subtitle: ""
       text: |-
+          ISE Project Course, lab work, Karlsruhe Institute of Technology, 2023 Winter
+          
           Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, lectures and lab work, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with <a href="https://ceres.ens.psl.eu/?-robert-corinne-&lang=fr" target="_blank">Corinne Robert</a>, Faustine Honoré and <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank">Marc Fleurbaey</a>, CERES, 2023 Spring
