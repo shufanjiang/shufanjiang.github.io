@@ -197,12 +197,12 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: <a href="https://www.di.ens.fr/information" shape="rect" target="_blank">Hauts du DI</a>, 1 (staircase A, 3rd floor), École normale supérieure, Département Informatique, 45 rue d'Ulm
-        city: Paris
-        postcode: '75005'
-        country: France
-        directions: 
-      # office_hours:
+        street: <a href="https://maps.app.goo.gl/Msw5kq8ETEBEZX57A" target="_blank"> FIZ Karlsruhe, Hermann-von-Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen, Germany</a>
+        #city: 'Eggenstein-Leopoldshafen'
+        #postcode: '76344'
+        #country: Germany
+      #directions: 
+      #office_hours: 
       #   - 'Tuesday 10:00 to 13:00'
       #   - 'Thursday 09:00 to 10:00'
       # contact_links:
@@ -237,7 +237,6 @@ sections:
       subtitle: ""
       text: |-
         <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%2333B679&ctz=Europe%2FBrussels&hl=en_GB&showPrint=0&showCalendars=0&showNav=1&mode=MONTH&src=MmFkMWIyMDZiNDI3MTYwNWQyNzY3OTg3NjY1OTgyYjYyZWEwOTgyNDQxN2IxNzFlNjFiOWU5NzFhN2E4NWE1M0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="500" frameborder="0" scrolling="no"></iframe>
-        <p><small>You might need to deactivate your ad blockers to visulaize the iframe content :-)</small></p>
     design:
       columns: "2"
 

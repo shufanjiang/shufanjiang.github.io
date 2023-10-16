@@ -18,8 +18,8 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Valda, ENS
-    url: https://team.inria.fr/valda/
+  - name: ISE, FIZ Karlsruhe # Valda, ENS
+    url: https://ise-fizkarlsruhe.github.io/ # https://team.inria.fr/valda/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My work explores the reconstruction of knowledge from textual and heterogeneous data.
@@ -86,8 +86,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a postdoctoral researcher in <a href="https://ise-fizkarlsruhe.github.io/" target="_blank">Information Service Engineering Team</a> at FIZ Karlsruhe and Karlsruhe Institute of Technology (AIFB) since October 2023. I am supervised by of  <a href="https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack" target="_blank">Harald Sack</a>.
 
-I am a postdoctoral researcher (more precisely, Temporary Lecturer and Research Staff, ATER) at Ecole Normale Supérieure since December 2022. I work on the <a href="https://github.com/PierreSenellart/theoremkb"  target="_blank">TheoremKB research project</a> in <a href="https://team.inria.fr/valda/" target="_blank">VALDA Team</a>, supervised by <a href="https://pierre.senellart.com" target="_blank">Pierre Senellart</a>. I have also participated in the teaching of the <a href="https://ceres.ens.psl.eu" target="_blank">Centre de formation sur l’environnement et la société (CERES)</a>.
+Between December 2022 and October 2023, I was a postdoctoral researcher (more precisely, Temporary Lecturer and Research Staff, ATER) at Ecole Normale Supérieure. I work on the <a href="https://github.com/PierreSenellart/theoremkb"  target="_blank">TheoremKB research project</a> in <a href="https://team.inria.fr/valda/" target="_blank">VALDA Team</a>, supervised by <a href="https://pierre.senellart.com" target="_blank">Pierre Senellart</a>. I have also participated in the teaching of the <a href="https://ceres.ens.psl.eu" target="_blank">Centre de formation sur l’environnement et la société (CERES)</a>.
 
 I obtained a Ph.D. in Computer Science from the University of Reims Champagne-Ardenne and ISEP Paris in December 2022. I was co-supervised by <a href="https://rafaelangarita.github.io" target="_blank"> Rafael Angarita</a>, <a href="https://crestic.univ-reims.fr/fr/stephane.cormier" target="_blank">Stéphane Cormier</a>, <a href="https://www.linkedin.com/in/rchiky/" target="_blank">Raja Chiky</a> and <a href="http://www.francisrousseaux.fr/" target="_blank">Francis Rousseaux</a>.
 
