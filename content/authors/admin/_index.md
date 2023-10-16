@@ -19,7 +19,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: ISE, FIZ Karlsruhe # Valda, ENS
-    url: https://ise-fizkarlsruhe.github.io/ # https://team.inria.fr/valda/
+    url: https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering # https://team.inria.fr/valda/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My work explores the reconstruction of knowledge from textual and heterogeneous data.
@@ -86,7 +86,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral researcher since October 2023 at <a href="https://ise-fizkarlsruhe.github.io/" target="_blank">Information Service Engineering Team</a> at <a href="https://www.fiz-karlsruhe.de/en" target="_blank">FIZ Karlsruhe</a> and <a href="https://www.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> under the supervision of <a href="https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack" target="_blank">Harald Sack</a>.
+I am a postdoctoral researcher since October 2023 at <a href="https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering" target="_blank">Information Service Engineering Team</a> at <a href="https://www.fiz-karlsruhe.de/en" target="_blank">FIZ Karlsruhe</a> and <a href="https://www.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> under the supervision of <a href="https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack" target="_blank">Harald Sack</a>.
 
 Between December 2022 and October 2023, I was a postdoctoral researcher (more precisely, Temporary Lecturer and Research Staff, ATER) at <a href="https://www.di.ens.fr/" target="_blank">Computer Science Department</a> of <a href="https://www.ens.psl.eu/" target="_blank">Ecole Normale Supérieure</a>, <a href="https://team.inria.fr/valda/" target="_blank">VALDA Team</a>. I have worked on the <a href="https://github.com/PierreSenellart/theoremkb"  target="_blank">TheoremKB research project</a> under the supervision of <a href="https://pierre.senellart.com" target="_blank">Pierre Senellart</a>. I have also participated in the teaching of the <a href="https://ceres.ens.psl.eu" target="_blank">Centre de formation sur l’environnement et la société (CERES)</a>.
 
