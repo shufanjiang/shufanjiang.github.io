@@ -135,8 +135,9 @@ sections:
       title: Teaching
       subtitle: ""
       text: |-
-          ISE Project Course, lab work, Karlsruhe Institute of Technology, 2023 Winter
           
+          Information Service Engineering - 2511606, lab work, Karlsruhe Institute of Technology, 2024 Summer
+
           Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, lectures and lab work, CERES, 2023 Spring
         
           Worshop "Transition agroécologique : quels bien (mal)-êtres pour les agriculteurs et les agricultrices ?", co-hosted with <a href="https://ceres.ens.psl.eu/?-robert-corinne-&lang=fr" target="_blank">Corinne Robert</a>, Faustine Honoré and <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank">Marc Fleurbaey</a>, CERES, 2023 Spring
@@ -169,12 +170,19 @@ sections:
       title: Services
       subtitle: ""
       text: |-
+          Organising committee member
+          <ul>
+            <li>Proceeding co-chair, 20th International Conference on Semantic Systems (SEMANTICS-2024), Amasterdam, Netherlands, 2024</li>
+          </ul>
           Reviewer for international journals / conferences
           <ul>
+            <li>Transactions on Graph Data and Knowledge (TGDK), Dagstuhl, Germany, 2023</li>
+            <li>The Web Conference 2024 (WWW2024), Singapore</li> 
             <li>The 4th International Conference on Physics, Mathematics and Statistics (ICPMS2021), Kunming, Chine, May 2021</li>
             <li><a href="https://isepengineering.github.io/TechnologyAndEnvironment21/" target="_blank"> Technology and Environment Workshop'21 </a> at <a href="https://egc2021.sciencesconf.org/" target="_blank">Extraction et Gestion des Connaissances (EGC 2021)</a> conference, Montpellier, France, January 2021</li>
             <li>Wiley, Concurrency and Computation: Practice and Experience (CCPE), November 2020</li>            
           </ul>
+
     design:
       columns: "2"
   - bloc: markdown
