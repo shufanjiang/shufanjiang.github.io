@@ -136,7 +136,7 @@ sections:
       subtitle: ""
       text: |-
           
-          Information Service Engineering - 2511606, lab work, Karlsruhe Institute of Technology, 2024 Summer
+          Information Service Engineering - 2511606, lab work, Karlsruhe Institute of Technology, 2024 Summer <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://sigmoid.social/tags/ise2024" target="_blank" rel="noopener">Mastodon</a>
 
           Workshop <a href="https://harrycovert.notion.site/DMDM-2023-Collective-notes-and-resources-6ded751467e84cbda21c32342690ee5f?pvs=4" target="_blank">Words for Environmental Woes</a>, lectures and lab work, CERES, 2023 Spring
         
@@ -192,7 +192,7 @@ sections:
       subtitle: ""
       text: |-
         Please download my detailed CV <a href="https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf" target="_blank">here</a>.
-        And its French version <a href="https://docs.google.com/document/d/1Jc_p-yzdOh-7amm9SuD6CAdypNex0sVdirdk6An524M/export?format=pdf" target="_blank">here</a>
+        And its French version <a href="https://docs.google.com/document/d/1L4ptgoUAHF6SD2adSsL-mIIUuphwYc5wc3R9qxrxbOo/export?format=pdf" target="_blank">here</a>
     design:
       columns: "2"
       view: compact
