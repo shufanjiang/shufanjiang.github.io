@@ -172,10 +172,13 @@ sections:
       text: |-
           Organising committee member
           <ul>
+            <li>Co-organizer, <a href="https://nfdi4ds.github.io/nslp2025/docs/readme2kg_shared_task.html" target="_blank"> Readme2KG Shared Task @ Natural Scientific Language Processing and Research Knowledge Graphs (NSLP 2025)</a>, Co-located with ESWC 2025, Portoroz, Slovenia, 2025</li>
             <li>Proceeding co-chair, 20th International Conference on Semantic Systems (SEMANTICS-2024), Amasterdam, Netherlands, 2024</li>
           </ul>
           Reviewer for international journals / conferences
           <ul>
+            <li>Workshop at COLING 2025 on Generative AI and Knowledge Graphs (GenAIK), Abu Dhabi, UAE, 2025</li>
+            <li>DL4KG - Deep Learning and Large Language Models for Knowledge Graphs workshop at KDD, Barcelona, Spain, 2024</li>
             <li>Transactions on Graph Data and Knowledge (TGDK), Dagstuhl, Germany, 2023</li>
             <li>The Web Conference 2024 (WWW2024), Singapore</li> 
             <li>The 4th International Conference on Physics, Mathematics and Statistics (ICPMS2021), Kunming, Chine, May 2021</li>

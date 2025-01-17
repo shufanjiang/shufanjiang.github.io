@@ -29,7 +29,8 @@ interests:
   - Computational Linguistics
   - Knowledge Graphs
   - Information Extraction
-  - Data Interoperability
+  - Information Retrieval
+  - Research Data Management 
   - Computational Social Science
   - Smart Agriculture
 
@@ -49,6 +50,7 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# brand logos here: https://github.com/FortAwesome/Font-Awesome/tree/5.15.3/svgs/brands
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
@@ -79,6 +81,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf
+  - icon: mastodon
+    icon_pack: fab
+    link: https://sigmoid.social/@shufan
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
