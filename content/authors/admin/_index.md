@@ -80,7 +80,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf
+    link: https://docs.google.com/document/d/1nbDHUSj54zmcBzd-fCl0auUjPhKv109lzdNOohk1ltw/export?format=pdf
   - icon: mastodon
     icon_pack: fab
     link: https://sigmoid.social/@shufan
@@ -91,7 +91,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a postdoctoral researcher since October 2023 at <a href="https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering" target="_blank">Information Service Engineering Team</a> at <a href="https://www.fiz-karlsruhe.de/en" target="_blank">FIZ Karlsruhe</a> and <a href="https://www.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> under the supervision of <a href="https://www.fiz-karlsruhe.de/en/forschung/lebenslauf-prof-dr-harald-sack" target="_blank">Harald Sack</a>.
+I am a postdoctoral researcher since October 2023 at <a href="https://www.fiz-karlsruhe.de/en/forschung/information-service-engineering" target="_blank">Information Service Engineering Team</a> at <a href="https://www.fiz-karlsruhe.de/en" target="_blank">FIZ Karlsruhe</a> and <a href="https://www.kit.edu/english/" target="_blank">Karlsruhe Institute of Technology</a> under the supervision of <a href="https://scholar.google.fr/citations?hl=fr&user=_ZG20kAAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Harald Sack</a>.
 
 Between December 2022 and October 2023, I was a postdoctoral researcher (more precisely, Temporary Lecturer and Research Staff, ATER) at <a href="https://www.di.ens.fr/" target="_blank">Computer Science Department</a> of <a href="https://www.ens.psl.eu/" target="_blank">Ecole Normale Supérieure</a>, <a href="https://team.inria.fr/valda/" target="_blank">VALDA Team</a>. I have worked on the <a href="https://github.com/PierreSenellart/theoremkb"  target="_blank">TheoremKB research project</a> under the supervision of <a href="https://pierre.senellart.com" target="_blank">Pierre Senellart</a>. I have also participated in the teaching of the <a href="https://ceres.ens.psl.eu" target="_blank">Centre de formation sur l’environnement et la société (CERES)</a>.
 

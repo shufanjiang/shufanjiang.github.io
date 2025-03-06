@@ -106,7 +106,7 @@ sections:
       title: Publications
       subtitle: ""
       text: |-
-        Please check out the full list of publications including the PDF files of most of them on <a href="https://scholar.google.fr/citations?user=4spgiPMAAAAJ&hl=fr" target="_blank">Google Scholar</a>, <a href="https://dblp.org/pid/265/2380.html" target="_blank">dblp</a> or <a href="https://hal.science/search/index/q/*/authIdHal_s/shufan-jiang" target="_blank">hal</a>.
+        Please check out the full list of publications including the PDF files of most of them on <a href="https://scholar.google.fr/citations?user=4spgiPMAAAAJ&hl=fr" target="_blank">Google Scholar</a> or <a href="https://hal.science/search/index/q/*/authIdHal_s/shufan-jiang" target="_blank">hal</a>.
 
         You could download ChouBERT models from <a href="https://huggingface.co/ChouBERT" target="_blank">Huggingface</a>.
     design:
@@ -119,6 +119,10 @@ sections:
       #   folders:
       #     - event
       text: |-
+        ISE Seminar: ReadMe2KG Shared Task Organization and lessons Learned, FIZ Karlsruhe, 6 March 2025,  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1U2sqT-kh_oMT13MioTBHfY7sFLBbPHdC/view?usp=sharing" target="_blank" rel="noopener">Slides</a> 
+
+        Our <a href="https://nfdi4ds.github.io/nslp2025/docs/readme2kg_shared_task.html" target="_blank">ReadMe2KG Shard Task</a> is live on 25 Jan, 2025!
+       
         Invited talk at the LIP6 DB seminar: Integrating Textural Data towards Crowdsensing Natural Hazards in Agriculture (20minutes), Sorbonne Université, 16 May, 2023 
 
         Workshop: Agricultural risks detection from Twitter, <a href="https://microandbig2023.sciencesconf.org" target="_blank">École Thématique Micro and Big 2013</a>, 26 Jan, 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://drive.google.com/file/d/1Yl4MDemYwD8qnTpVk3pTPDYUhfsvonLg/view?usp=sharing" target="_blank" rel="noopener">Slides & Code</a> 
@@ -194,8 +198,8 @@ sections:
       title: CV
       subtitle: ""
       text: |-
-        Please download my detailed CV <a href="https://docs.google.com/document/d/1a0sjxRcNKbS2qmuREAjYBvvSW68udsc_GbwII0JNNXE/export?format=pdf" target="_blank">here</a>.
-        And its French version <a href="https://docs.google.com/document/d/1L4ptgoUAHF6SD2adSsL-mIIUuphwYc5wc3R9qxrxbOo/export?format=pdf" target="_blank">here</a>
+        Please download my detailed CV <a href="https://docs.google.com/document/d/1nbDHUSj54zmcBzd-fCl0auUjPhKv109lzdNOohk1ltw/export?format=pdf" target="_blank">here</a>.
+        And its French version <a href="https://docs.google.com/document/d/1ezLWSucBqsKmswHSDai6pAxzkjMQMWH_r-kPOm97JyE/export?format=pdf" target="_blank">here</a>
     design:
       columns: "2"
       view: compact
