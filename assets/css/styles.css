@@ -36,7 +36,7 @@
 
 :root[data-theme="dark"] {
   --bg: #111827;
-  --bg-alt: #0f172a;
+  --bg-alt: #161b26;
   --text: #e5e7eb;
   --muted: #9ca3af;
   --border: #1f2937;
@@ -233,7 +233,7 @@ a:hover {
 .lists-wrap {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 .lists-wrap h3 {
