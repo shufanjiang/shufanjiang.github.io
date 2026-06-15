@@ -144,7 +144,7 @@ a:hover {
 }
 
 .section {
-  padding: 3.2rem 0;
+  padding-top: 5rem;
 }
 
 .alt-bg {
@@ -352,6 +352,6 @@ a:hover {
   }
 
   .section {
-    padding-top: 5rem;
+    padding-top: 2.35rem 0;
   }
 }
